@@ -12,7 +12,7 @@
 
 error_reporting(0);
 
-Class __shutdown57{
+Class __H4CK3R.EMJ{
 
 	/** Add Your Api here **/
 
@@ -20,7 +20,7 @@ Class __shutdown57{
 
 		'tokocash' => ['url' => 'https://www.tokocash.com/oauth/otp',
 
-					 'postdata' => 'msisdn={shutdown57_nomerHP}&accept=call',
+					 'postdata' => 'msisdn={H4CK3R.EMJ_nomerHP}&accept=call',
 
 					 'success' => '"code":"200000"'
 
